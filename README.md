@@ -1,4 +1,4 @@
-# Serhii Yatsunenko
+# wxsmrzx
 
 This repository is for practicing the GitHub Flow and my programming skills.
 
@@ -10,9 +10,6 @@ I am currently studying at **Kharkiv National University of Economics** since 20
 - Basic knowledge of **HTML**, **CSS** and **C++**
 - Experience in **creating flowcharts** for algorithms
 - Completed a beginner **web development course** on Udemy
-
-### Programming Projects
-I am currently working on a console-based **English grammar test application** in **C++**, and I have added a README.md file to my project titled **'Склад Наслада'**.
 
 ### Languages
 I am learning **English** and have a proficiency level of **B1**, certified by a **Tandem Certificate**.
