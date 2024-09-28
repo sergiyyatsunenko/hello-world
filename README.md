@@ -1,8 +1,26 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# Serhii Yatsunenko
 
-I'm starting to learn Computer Science and constantly improving myself.
-On the other hand, I am learning English and have a B1 level with a Tandem Certificate.
+This repository is for practicing the GitHub Flow and my programming skills.
 
-I started to be in GitHub on 8/22/2024
+## About Me
 
+I am currently studying at **Kharkiv National University of Economics** since 2024, specializing in **122**. Despite the challenges posed by the war, I chose this university to further my education.
+
+### Skills
+- Basic knowledge of **HTML**, **CSS** and **C++**
+- Experience in **creating flowcharts** for algorithms
+- Completed a beginner **web development course** on Udemy
+
+### Programming Projects
+I am currently working on a console-based **English grammar test application** in **C++**, and I have added a README.md file to my project titled **'Склад Наслада'**.
+
+### Languages
+I am learning **English** and have a proficiency level of **B1**, certified by a **Tandem Certificate**.
+
+### Interests
+In my free time, I enjoy programming, studying new topics, and listening to music. 
+
+### GitHub Journey
+I started using GitHub on **August 22, 2024**, and I am continually working to improve my skills and knowledge in computer science.
+
+Feel free to explore my repositories and projects!
