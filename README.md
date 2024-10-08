@@ -4,7 +4,7 @@ This repository is for practicing the GitHub Flow and my programming skills.
 
 ## About Me
 
-I am currently studying at **Kharkiv National University of Economics** since 2024, specializing in **122**. Despite the challenges posed by the war, I chose this university to further my education.
+I am currently studying at **Kharkiv National University of Economics** since 2024, specializing in **122 "Computer Science"**. Despite the challenges posed by the war, I chose this university to further my education.
 
 ### Skills
 - Basic knowledge of **HTML**, **CSS** and **C++**
